@@ -33,7 +33,7 @@
 }
 
 .custom-container h3 {
-    color: #ff6600; 
+    color: #b9520e; 
 }
 
 .custom-container ul li {
@@ -90,6 +90,10 @@
   border-color: #2b2c2d;
 }
 
+
+.my-email:hover, .my-linkedin:hover {
+  text-decoration: underline !important;
+}
   
 /* Profile Pic Bounce effect */
 /* keyframe defines how animation works through diff stages */
